@@ -1,10 +1,20 @@
-Sample Module Repository
-========================
+Adeept AWR Raspberry Pi Robot
+==============================
 
-This simple project is an example repo for Python projects.
+Copyright (C) 2020 Robert L. Turner
 
-`Learn more <http://www.kennethreitz.org/essays/repository-structure-and-python>`_.
+This program is free software: you can redistribute it and/or modify
+it under the terms of the GNU General Public License as published by
+the Free Software Foundation, either version 3 of the License, or
+(at your option) any later version.
 
----------------
+This program is distributed in the hope that it will be useful,
+but WITHOUT ANY WARRANTY; without even the implied warranty of
+MERCHANTABILITY or FITNESS FOR A PARTICULAR PURPOSE.  See the
+GNU General Public License for more details.
 
-If you want to learn more about ``setup.py`` files, check out `this repository <https://github.com/kennethreitz/setup.py>`_.
+You should have received a copy of the GNU General Public License
+along with this program.  If not, see <https://www.gnu.org/licenses/>.
+
+-----------------------------------
+
