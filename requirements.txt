@@ -1,6 +1,7 @@
 #Core Requirements
 picamera
-zmq
+imutils
+pyzmq
 
 
 #Test Requirements
